@@ -1,0 +1,15 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "mod 10",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "SVG-logo-maker"
+  },
+  "author": "",
+  "license": "ISC"
+}
