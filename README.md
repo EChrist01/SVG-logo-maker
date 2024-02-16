@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [Description]()
+1. [Description](https://github.com/EChrist01/SVG-logo-maker/blob/main/README.md#description)
 2. [Installation]()
 3. [Usage]()
 4. [Demo]()
