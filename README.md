@@ -9,8 +9,8 @@
 5. [Questions](https://github.com/EChrist01/SVG-logo-maker/blob/main/README.md#questions)
 
 ## Description.
-
 The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a file.
+
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for text
 THEN I can enter up to three characters
@@ -27,12 +27,16 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Installation Instructions.
-This application uses express, heroku.
+This application uses jest, inquirer, node.
 
 ## Usage Information.
-Page link will open the website, 
+- Clone this repo, then from that file open a terminal and run <$ npm i>
+- In that same terminal run <$ node index.js>
+- Fullfill all of the prompts to recive a generated logo!
 
 ## Demo.
+
+![Screenshot 2024-02-19 190322](https://github.com/EChrist01/SVG-logo-maker/assets/146894896/00c9d914-8515-47a8-b032-7a7aea6090b0)
 
 
 ## Questions
