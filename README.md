@@ -35,7 +35,7 @@ This application uses jest, inquirer, node.
 - Fullfill all of the prompts to recive a generated logo!
 
 ## Demo.
-
+https://www.loom.com/share/35b1dcb0ea624d2f85dea21c975da02e?sid=3ebcf2d1-511d-4b06-a5ee-f0eb41cfdb2b
 ![Screenshot 2024-02-19 190322](https://github.com/EChrist01/SVG-logo-maker/assets/146894896/00c9d914-8515-47a8-b032-7a7aea6090b0)
 
 
