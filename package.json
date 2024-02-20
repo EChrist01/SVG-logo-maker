@@ -2,7 +2,7 @@
   "name": "svg-logo-maker",
   "version": "1.0.0",
   "description": "mod 10",
-  "main": "index.js",
+  "main": "index.cjs",
   "type": "module",
   "scripts": {
     "test": "jest"
@@ -15,7 +15,9 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^8.2.4",
-    "jest": "^29.7.0",
-    "node-fetch": "^2.6.1"
+    "node": "^21.6.2"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
   }
 }
